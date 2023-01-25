@@ -1,7 +1,4 @@
 {
-  {
-
-}
   "scripts": {
     "start": "vite"
   },
